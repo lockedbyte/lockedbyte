@@ -6,6 +6,7 @@
 - [CVE-2021-3156](https://github.com/lockedbyte/CVE-Exploits/tree/master/CVE-2021-3156): Linux LPE exploit for a heap-based buffer overflow in sudo
 - [CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444): Microsoft Windows RCE exploit for a MS Office bug chain
 - [CVE-2022-0185](https://www.openwall.com/lists/oss-security/2022/01/25/14): Linux Kernel LPE exploit for an integer underflow in `fs_context.c`
+- [CVE-2022-2586](https://www.openwall.com/lists/oss-security/2022/08/29/5): Linux Kernel LPE exploit for an nft_object Use-After-Free
 
 ### Talk slides
 
